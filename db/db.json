@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+        "id": "1",
+        "category": "Cortes Bovinos",
+        "lastUpdate": "22/02/2023",
+        "activeProducts": "43/100",
+        "status": "Pendente"
+    },
+    {
+      "id": "2",
+      "category": "Frutos do mar",
+      "lastUpdate": "05/02/2023",
+      "activeProducts": "100/100",
+      "status": "Configurado"
+  },
+  {
+    "id": "3",
+    "category": "Condimentos Liquidos",
+    "lastUpdate": "01/02/2023",
+    "activeProducts": "32/100",
+    "status": "Pendente"
+  },
+  {
+    "id": "4",
+    "category": "Pães",
+    "lastUpdate": "10/05/2023",
+    "activeProducts": "250/250",
+    "status": "Configurado"
+  },
+  {
+    "id": "5",
+    "category": "Bebidas Quentes",
+    "lastUpdate": "10/05/2023",
+    "activeProducts": "250/250",
+    "status": "Configurado"
+  },
+  {
+    "id": "6",
+    "category": "Grãos",
+    "lastUpdate": "10/05/2023",
+    "activeProducts": "250/250",
+    "status": "Configurado"
+  },
+  {
+    "id": "7",
+    "category": "Refrigerantes",
+    "lastUpdate": "10/05/2023",
+    "activeProducts": "250/250",
+    "status": "Configurado"
+  },
+  {
+    "id": "8",
+    "category": "Sobremesas",
+    "lastUpdate": "10/05/2023",
+    "activeProducts": "103/250",
+    "status": "Pendentes"
+  }
+]
+}

@@ -1,1 +1,19 @@
-# cdc-front-poo
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm install
+# and
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+Pode começar a edição e modificação no diretório `app/page.tsx`
